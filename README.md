@@ -43,7 +43,7 @@ A continuación, se presentan ejemplos de cómo se visualizan los tópicos en Fo
 ![ListarTopicosIDGET](https://github.com/user-attachments/assets/ade51239-e590-4345-a263-29728394a8bd)
 
 #### Actualización de un tópico por ID
-(![ActualizarTopicoPUT](https://github.com/user-attachments/assets/ef6c08b1-6ef1-4fa1-8584-eb7f176a0253)
+![ActualizarTopicoPUT](https://github.com/user-attachments/assets/ef6c08b1-6ef1-4fa1-8584-eb7f176a0253)
 
 
 #### Eliminación de un tópico por ID
