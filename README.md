@@ -34,8 +34,7 @@ Accede a la API en: http://localhost:8080.
 A continuación, se presentan ejemplos de cómo se visualizan los tópicos en ForoHub:
 
 #### Registro de los tópicos
-![RegistroTopicoPOST](https://github.com/user-attachments/assets/15772c8d-3ad3-407c-af9d-d76283d642e7
-
+![RegistroTopicoPOST](https://github.com/user-attachments/assets/15772c8d-3ad3-407c-af9d-d76283d642e7)
 
 #### Lista de tópicos
 ![ListarTopicosGET](https://github.com/user-attachments/assets/00f4f171-93d0-42c6-8a22-369420b76192)
