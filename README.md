@@ -34,24 +34,18 @@ Accede a la API en: http://localhost:8080.
 A continuación, se presentan ejemplos de cómo se visualizan los tópicos en ForoHub:
 
 #### Registro de los tópicos
-![Registro de un tópico](![RegistroTopicoPOST](https://github.com/user-attachments/assets/15772c8d-3ad3-407c-af9d-d76283d642e7)
-)
+![RegistroTopicoPOST](https://github.com/user-attachments/assets/15772c8d-3ad3-407c-af9d-d76283d642e7
+
 
 #### Lista de tópicos
-![Lista de los tópico](![ListarTopicosGET](https://github.com/user-attachments/assets/00f4f171-93d0-42c6-8a22-369420b76192)
-)
+![ListarTopicosGET](https://github.com/user-attachments/assets/00f4f171-93d0-42c6-8a22-369420b76192)
 
 #### Lista de un tópico por ID
-![Lista de un tópico](![ListarTopicosIDGET](https://github.com/user-attachments/assets/ade51239-e590-4345-a263-29728394a8bd)
-)
+![ListarTopicosIDGET](https://github.com/user-attachments/assets/ade51239-e590-4345-a263-29728394a8bd)
 
 #### Actualización de un tópico por ID
-![Actualización de un tópico por ID](![ActualizarTopicoPUT](https://github.com/user-attachments/assets/ef6c08b1-6ef1-4fa1-8584-eb7f176a0253)
-)
+(![ActualizarTopicoPUT](https://github.com/user-attachments/assets/ef6c08b1-6ef1-4fa1-8584-eb7f176a0253)
+
 
 #### Eliminación de un tópico por ID
-![Eliminación de un tópico por ID](![BorrarTopicoDELETE](https://github.com/user-attachments/assets/8e712938-6bc5-4d62-aad0-922b0f811823)
-
-
-)
-
+![BorrarTopicoDELETE](https://github.com/user-attachments/assets/8e712938-6bc5-4d62-aad0-922b0f811823)
